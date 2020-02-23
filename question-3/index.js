@@ -1,5 +1,7 @@
 const rootId = document.getElementById('root');
 
+// Added span data and filter in one file for all three levels
+
 class Input extends React.Component{
     state ={
         title:"",
